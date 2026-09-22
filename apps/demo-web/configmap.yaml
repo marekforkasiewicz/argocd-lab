@@ -32,7 +32,7 @@ data:
         </div>
         <div class="row">
           <p>Ta strona jest serwowana z repo Git i synchronizowana automatycznie.<br>
-          Zmiana manifestu = zmiana w klastrze. Bez ręcznych <code>kubectl apply</code>.</p>
+          Zmiana manifestu = zmiana w klastrze. Bez ręcznych - test <code>kubectl apply</code>.</p>
         </div>
       </div>
     </body>
